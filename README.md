@@ -7,7 +7,7 @@ I'm Chaithanya Reddy here 👋
 - 🌱 I’m currently learning MERN stack languages
 - All of my projects and details are available at https://chaithanyareddy.github.io/
 - Ask me about React, Java, JavaScript, MongoDb, Node.js, HTML, CSS.
-- 📫 How to reach me [chat](chaithanyareddy786@gmail.com)!
+- 📫 How to reach me [mail](chaithanyareddy786@gmail.com)!
 - 📄 Know about my experiences https://drive.google.com/file/d/1NTKHfUo9vmmxG9sOTeMuQd_l4UJdy6qI/view
 - 💬 Let's [chat](chaithanyareddy786@gmail.com)!
 
