@@ -5,7 +5,7 @@ I'm Chaithanya Reddy here 👋
 - 😄 I'm a 20 y.o. <b>Diploma (DME)</b> from Dr. Y C James Yen Polytechnic, Kuppam. 
 - 🌱 I’m currently learning about <i>Full Stack Web Development</i> at Masai School.
 - 🌱 I’m currently learning <b>MERN stack languages</b>
-- 🤔 All of my projects and details are available at https://chaithanya18.github.io/
+- 🤔 All of my projects and details are available at https://chaithanyareddy.github.io/
 - 💬 Ask me about <b>React,Typescript, JavaScript, MongoDb, Node.js,Express.js, HTML, CSS.</b>
 - 📫 How to reach me chaithanyareddy786@gmail.com
 - 📄 Know about my experiences https://drive.google.com/file/d/1zicJM5bluc8GVOXWm_jcn7enutGcYubX/view
