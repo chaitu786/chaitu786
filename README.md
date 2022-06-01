@@ -13,7 +13,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from theopen
 - 📫 How to reach me chaithanyareddy786@gmail.com
 - 📄 Know about my experiences https://drive.google.com/file/d/1zicJM5bluc8GVOXWm_jcn7enutGcYubX/view
 - 💬 Let's [chat](chaithanyareddy786@gmail.com)!
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="320" /> 
 
 ## Languages & Tech
 
