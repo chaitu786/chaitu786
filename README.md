@@ -1,5 +1,8 @@
 ### Hi there 👋
-I'm Chaithanya Reddy here 👋
+<h1>I'm Chaithanya Reddy here 👋</h1>
+<h3>A Passionate Full-Stack web developer from india</h3>
+<p>my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.<br>
+i am also an open-source enthusiast and maintainer. i learned a lot from theopen-source community and i love how collaboration and knowledge sharing happenedthrough open-source.</p>
 
 ## About me
 - 😄 I'm a 20 y.o. <b>Diploma (DME)</b> from Dr. Y C James Yen Polytechnic, Kuppam. 
