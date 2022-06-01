@@ -39,8 +39,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from theopen
 
 ## Connect with me:
 <p align="left" >
-<a href="https://linkedin.com/in/mukunda-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukunda-k" height="30" width="40" /></a>
-<a href="https://fb.com/mukesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mukesh kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Chaithanya Reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukunda-k" height="30" width="40" /></a>
+<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mukesh kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/she_calz_me_bangaru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iammukundha" height="30" width="40" /></a>
 </p>
 
