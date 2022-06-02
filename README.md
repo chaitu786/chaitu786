@@ -56,7 +56,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from theopen
  
 </p>
   <img alt="chaithanya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaitu786&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
- <img alt="chaithanya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitu786&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+ <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashk808443&show_icons=true&locale=en" alt="akashk808443" /></div>
+</div>
   <br/>
  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
