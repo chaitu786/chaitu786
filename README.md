@@ -65,7 +65,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from theopen
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <div align="left">
-<img alt="Chiranjeev Thapliyal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shravankumar1234&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
+<img alt="Chiranjeev Thapliyal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chaitu786&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
   </div>
 
 <!--
