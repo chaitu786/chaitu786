@@ -1,5 +1,8 @@
 ### Hi there 👋
 <h1>I'm Chaithanya Reddy here 👋</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...;2000%2B+Hours+Of+Coding+Experiance;Problem+Solver)](https://git.io/typing-svg)
+
 <h3>A Passionate Full-Stack web developer from india</h3>
 <p>my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.<br>
 i am also an open-source enthusiast and maintainer. i learned a lot from theopen-source community and i love how collaboration and knowledge sharing happenedthrough open-source.</p>
@@ -61,6 +64,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from theopen
  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+<div align="left">
+<img alt="Chiranjeev Thapliyal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shravankumar1234&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
+  </div>
 
 <!--
 **chaitu786/chaitu786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
