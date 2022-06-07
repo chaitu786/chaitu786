@@ -44,7 +44,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from theopen
 <p align='center'>
 <a href="https://www.linkedin.com/in/chaithanya-reddy-175023207/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukunda-k" height="30" width="40" /></a>
 <a href="https://www.facebook.com/chaithanya.prabha.56/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chaithanya" height="30" width="40" /></a>
-<a href="[https://fb.com/Chaithanya Prabha](https://www.facebook.com/chaithanya.prabha.56/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chaithanya" height="30" width="40" /></a>
+<!-- <a href="[https://fb.com/Chaithanya Prabha](https://www.facebook.com/chaithanya.prabha.56/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chaithanya" height="30" width="40" /></a> -->
 <a href="https://instagram.com/she_calz_me_bangaru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iammukundha" height="30" width="40" /></a>
 </p>
 <br/>
