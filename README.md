@@ -14,7 +14,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from theopen
 - 🤔 All of my projects and details are available at https://chaitu786.github.io/chaitu-portfolio/
 - 💬 Ask me about <b>React,Typescript, JavaScript, MongoDb, Node.js,Express.js, HTML, CSS.</b>
 - 📫 How to reach me chaithanyareddy786@gmail.com
-- 📄 Know about my experiences https://drive.google.com/drive/u/1/my-drive
+- 📄 Know about my experiences https://drive.google.com/file/d/1zicJM5bluc8GVOXWm_jcn7enutGcYubX/view?usp=sharing
 - 💬 Let's [chat](chaithanyareddy786@gmail.com)!
 
 ## Languages & Tech
