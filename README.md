@@ -34,7 +34,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <img height="40" src="https://www.linkpicture.com/q/mongo.png">&nbsp;&nbsp;
     <img height="40" src="https://www.linkpicture.com/q/express.png">&nbsp;&nbsp;
     <img height="40" src="https://img.icons8.com/color/344/java-web-token.png">&nbsp;&nbsp;
-    <img height="40" src="https://www.linkpicture.com/q/cypress.png">
+    <img height="40" src="https://www.linkpicture.com/q/cypress.png">&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/color/452/npm.png">&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/color/344/git.png">&nbsp;&nbsp;
 </p>
 <br/>
 <br/>
