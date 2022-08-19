@@ -68,43 +68,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-## 📕 Pinned Repositories
 
-<p align="center">
-<a href="https://github.com/chaitu786/Nykaa-Unit-2-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Nykaa-Unit-2-Project&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/chaitu786/Zoom_car.Com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Zoom_car.Com&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/chaitu786/Himalayausa-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Himalayausa-clone&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/chaitu786/Modesens_Clone-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Modesens_Clone&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/chaitu786/Farmer-Festlizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Farmer-Festlizer&hide_border=true&theme=radical" />
-</a>
-
-
-<a href="https://github.com/chaitu786/Tic-Tac-Toi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Tic-Tac-Toi&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/chaitu786/Weather-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Weather-Application&hide_border=true&theme=radical" />
-</a>
-
-<a href="https://github.com/chaitu786/Movie-Search-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Movie-Search-App&hide_border=true&theme=radical" />
-</a>
-
-</p>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitu786&label=Profile%20views&color=0e75b6&style=flat" alt="chaitu786" /> </p>
 
