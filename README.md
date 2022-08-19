@@ -1,5 +1,5 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitu786&label=Profile%20views&color=0e75b6&style=flat" alt="chaitu786" /> </p>
-### Hi there 👋 
+## Hi there 👋 
 <h1>I'm Chaithanya Reddy here 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...;2000%2B+Hours+Of+Coding+Experiance;Problem+Solver)](https://git.io/typing-svg)
