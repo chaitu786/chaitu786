@@ -57,11 +57,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <br/>
   <p align='center'>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="chaithanya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitu786&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chaitu786&show_icons=true&hide_border=true&theme=radical" />
  
 </p>
 <p align='center'>
-  <img  alt="chaithanya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaitu786&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitu786&hide_border=true&theme=radical" />
 </p>
 
 <div align="center">
@@ -71,12 +71,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chaitu786&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitu786&hide_border=true&theme=radical" />
-</p>
+</p> -->
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitu786&label=Profile%20views&color=0e75b6&style=flat" alt="chaitu786" /> </p>
+
 
 <!--
 **chaitu786/chaitu786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
