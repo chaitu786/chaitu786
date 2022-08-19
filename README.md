@@ -1,3 +1,4 @@
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitu786&label=Profile%20views&color=0e75b6&style=flat" alt="chaitu786" /> </p>
 ### Hi there 👋 
 <h1>I'm Chaithanya Reddy here 👋</h1>
 
@@ -61,16 +62,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitu786&hide_border=true&theme=dark" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitu786&langs_count=8&theme=algolia" alt="chaitu786's GitHub stats" />
-</div>
-
- 
+## 🔝 Most Used Languages
+ <div align="center">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitu786&layout=compact&hide_border=true&theme=dark" />
+</div> 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitu786&label=Profile%20views&color=0e75b6&style=flat" alt="chaitu786" /> </p>
+---
 
 ## 📕 Pinned Repositories
 
