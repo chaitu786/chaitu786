@@ -5,7 +5,7 @@
 
 <h3>A Passionate Full-Stack web developer from india</h3>
 <p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br>
-I am also an open-source enthusiast and maintainer. I learned a lot from theopen-source community and i love how collaboration and knowledge sharing happenedthrough open-source.</p>
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
 
 ## About me
 - 😄 I'm a 20 y.o. <b>Diploma (DME)</b> from Dr. Y C James Yen Polytechnic, Kuppam. 
