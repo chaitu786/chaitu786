@@ -80,19 +80,19 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </a>
 
 <a href="https://github.com/chaitu786/Zoom_car.Com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Zoom_car.Com&hide_border=true&theme=radica" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Zoom_car.Com&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/chaitu786/Himalayausa-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Himalayausa-clone&hide_border=true&theme=radica" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Himalayausa-clone&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/chaitu786/Modesens_Clone-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Modesens_Clone&hide_border=true&theme=radica" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Modesens_Clone&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/chaitu786/Farmer-Festlizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Farmer-Festlizer&hide_border=true&theme=radica" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Farmer-Festlizer&hide_border=true&theme=radical" />
 </a>
 
 
@@ -101,11 +101,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </a>
 
 <a href="https://github.com/chaitu786/Weather-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Weather-Application&hide_border=true&theme=radica" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Weather-Application&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/chaitu786/Movie-Search-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Movie-Search-App&hide_border=true&theme=radica" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Movie-Search-App&hide_border=true&theme=radical" />
 </a>
 
 </p>
