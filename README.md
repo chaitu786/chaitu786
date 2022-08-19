@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 <h1>I'm Chaithanya Reddy here 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...;2000%2B+Hours+Of+Coding+Experiance;Problem+Solver)](https://git.io/typing-svg)
@@ -74,6 +74,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <div align="left">
 <img alt="chaithanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chaitu786&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
   </div>
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitu786&label=Profile%20views&color=0e75b6&style=flat" alt="chaitu786" /> </p>
 
 <!--
 **chaitu786/chaitu786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
