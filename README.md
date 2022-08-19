@@ -23,15 +23,17 @@ i am also an open-source enthusiast and maintainer. i learned a lot from theopen
     <img height="40" src="/iconImages/html.png">&nbsp;&nbsp;
     <img height="40" src="https://www.linkpicture.com/q/css.png">&nbsp;&nbsp;
     <img height="40" src="https://www.linkpicture.com/q/javascript_2.png">&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/color/2x/chakra-ui.png">&nbsp;&nbsp;
+    <img height="40" src="https://material-ui.com/static/logo.png">&nbsp;&nbsp;
     <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSYXDgtUuX0KXITEzysyAq-gwLKRNalIEdUg&usqp=CAU">&nbsp;&nbsp;
     <img height="40" src="https://www.linkpicture.com/q/react_3.png">&nbsp;&nbsp;
     <img height="40" src="https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png">&nbsp;&nbsp;
     <img height="40" src="/iconImages/typescript.png">&nbsp;&nbsp;
     <img height="40" src="https://n7.nextpng.com/sticker-png/925/447/sticker-png-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-web-application.png">&nbsp;&nbsp;
     <img height="40" src="https://www.linkpicture.com/q/node.png">&nbsp;&nbsp;
-    <img height="40" src="https://material-ui.com/static/logo.png">&nbsp;&nbsp;
     <img height="40" src="https://www.linkpicture.com/q/mongo.png">&nbsp;&nbsp;
     <img height="40" src="https://www.linkpicture.com/q/express.png">&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/color/344/java-web-token.png">&nbsp;&nbsp;
     <img height="40" src="https://www.linkpicture.com/q/cypress.png">
 </p>
 <br/>
