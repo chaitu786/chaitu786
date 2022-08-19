@@ -97,7 +97,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 <a href="https://github.com/chaitu786/Tic-Tac-Toi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Tic-Tac-Toi&hide_border=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Tic-Tac-Toi&hide_border=true&theme=radica" />
 </a>
 
 <a href="https://github.com/chaitu786/Weather-Application">
