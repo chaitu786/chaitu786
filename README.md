@@ -71,9 +71,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<div align="left">
-<img alt="chaithanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chaitu786&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
-  </div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chaitu786&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitu786&hide_border=true&theme=radical" />
+</p>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitu786&label=Profile%20views&color=0e75b6&style=flat" alt="chaitu786" /> </p>
 
