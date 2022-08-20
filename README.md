@@ -13,7 +13,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 😄 I'm a 20 y.o. <b>Diploma (DME)</b> from Dr. Y C James Yen Polytechnic, Kuppam. 
 - 🌱 I’m currently learning about <i>Full Stack Web Development</i> at Masai School.
 - 🌱 I’m currently learning <b>MERN stack languages</b>
-- 🤔 All of my projects and details are available at https://chaitu786.github.io/chaitu-portfolio/
+- 🤔 All of my projects and details are available at [My Portfolio](https://chaitu786.github.io/chaitu-portfolio/)
 - 💬 Ask me about <b>JavaScript, React, Redux, Typescript Testing , Cypress, Node.js,Express.js, MongoDb, HTML, CSS.</b>
 - 📫 How to reach me chaithanyareddy786@gmail.com
 - 📄 Know about my experiences [Click Here (Resume)](https://drive.google.com/file/d/186G5Foy--YBqwAD_gNuJqY7N0zlcV8Mu/view?usp=sharing)
