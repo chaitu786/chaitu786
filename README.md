@@ -1,5 +1,4 @@
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitu786&label=Profile%20views&color=0e75b6&style=flat" alt="chaitu786" /> </p>
- 
+
 ## Hi there 👋 
 <h1>I'm Chaithanya Reddy here 👋</h1>
 
@@ -8,6 +7,9 @@
 <h3>A Passionate Full-Stack web developer from india</h3>
 <p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br>
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitu786&label=Profile%20views&color=0e75b6&style=flat" alt="chaitu786" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitu786" alt="chaitu786" /></a> </p>
 
 ## About me
 - 😄 I'm a 20 y.o. <b>Diploma (DME)</b> from Dr. Y C James Yen Polytechnic, Kuppam. 
