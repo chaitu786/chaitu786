@@ -21,7 +21,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 📄 Know about my experiences [Click Here (Resume)](https://drive.google.com/file/d/186G5Foy--YBqwAD_gNuJqY7N0zlcV8Mu/view?usp=sharing)
 - 💬 Let's [chat](mailto:chaithanyareddy786@gmail.com)!
 
-## Languages & Tech
+## Languages & Tech & Tools
 <br/>
 <p align='center'>
     <img height="40" src="/iconImages/html.png">&nbsp;&nbsp;
