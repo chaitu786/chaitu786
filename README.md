@@ -17,7 +17,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 🌱 I’m currently learning <b>MERN stack languages</b>
 - 🤔 All of my projects and details are available at [My Portfolio](https://chaitu786.github.io/chaitu-portfolio/)
 - 💬 Ask me about <b>JavaScript, React, Redux, Typescript Testing , Cypress, Node.js,Express.js, MongoDb, HTML, CSS.</b>
-- 📫 How to reach me chaithanyareddy786@gmail.com
+- 📫 How to reach me [Email](mailto:chaithanyareddy786@gmail.com)!
 - 📄 Know about my experiences [Click Here (Resume)](https://drive.google.com/file/d/186G5Foy--YBqwAD_gNuJqY7N0zlcV8Mu/view?usp=sharing)
 - 💬 Let's [chat](mailto:chaithanyareddy786@gmail.com)!
 
