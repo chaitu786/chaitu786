@@ -41,6 +41,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <img height="40" src="https://www.linkpicture.com/q/cypress.png">&nbsp;&nbsp;
     <img height="40" src="https://img.icons8.com/color/452/npm.png">&nbsp;&nbsp;
     <img height="40" src="https://img.icons8.com/color/344/git.png">&nbsp;&nbsp;
+    <img height="40" src=" https://img.icons8.com/plasticine/344/visual-studio-code-2019.png">&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/ios-glyphs/344/github.png">&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/color/452/heroku.png">&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/452/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png">&nbsp;&nbsp;
+  <img height="40" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png">&nbsp;&nbsp;
+ 
+ 
 </p>
 <br/>
 <br/>
