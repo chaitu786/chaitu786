@@ -9,7 +9,7 @@
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitu786&label=Profile%20views&color=0e75b6&style=flat" alt="chaitu786" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitu786" alt="chaitu786" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitu786&column=8&theme=onedark&no-frame=true&no-bg=true" alt="chaitu786" /></a> </p>
 
 ## About me
 - 😄 I'm a 20 y.o. <b>Diploma (DME)</b> from Dr. Y C James Yen Polytechnic, Kuppam. 
