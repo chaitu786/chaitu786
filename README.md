@@ -19,7 +19,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 Ask me about <b>JavaScript, React, Redux, Typescript Testing , Cypress, Node.js,Express.js, MongoDb, HTML, CSS.</b>
 - 📫 How to reach me chaithanyareddy786@gmail.com
 - 📄 Know about my experiences [Click Here (Resume)](https://drive.google.com/file/d/186G5Foy--YBqwAD_gNuJqY7N0zlcV8Mu/view?usp=sharing)
-- 💬 Let's [chat](chaithanyareddy786@gmail.com)!
+- 💬 Let's [chat](mailto:chaithanyareddy786@gmail.com)!
 
 ## Languages & Tech
 <br/>
