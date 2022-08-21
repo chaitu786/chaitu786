@@ -116,6 +116,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Movie-Search-App&hide_border=true&theme=dark" />
 </a>
 
+
+### 📈 GitHub Activity
+  <a href="https://github.com/chaitu786/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chaitu786&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 <!--
 **chaitu786/chaitu786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
