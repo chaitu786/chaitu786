@@ -68,13 +68,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <br/>
  <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chaitu786&show_icons=true&hide_border=true&theme=dark" />
-  <img width="48% title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="chaitu786's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitu786&theme=dark&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chaitu786&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img width="48% title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="chaitu786's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitu786&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🔝 Most Used Languages
  <div align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitu786&layout=compact&hide_border=true&theme=dark" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitu786&layout=compact&hide_border=true&theme=tokyonight" />
 </div> 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -84,36 +84,36 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p align="center">
 <a href="https://github.com/chaitu786/Nykaa-Unit-2-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Nykaa-Unit-2-Project&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Nykaa-Unit-2-Project&hide_border=true&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/chaitu786/Zoom_car.Com">
-  <image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Zoom_car.Com&hide_border=true&theme=dark" />
+  <image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Zoom_car.Com&hide_border=true&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/chaitu786/Himalayausa-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Himalayausa-clone&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Himalayausa-clone&hide_border=true&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/chaitu786/Modesens_Clone-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Modesens_Clone-1&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Modesens_Clone-1&hide_border=true&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/chaitu786/Farmer-Festlizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Farmer-Festlizer&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Farmer-Festlizer&hide_border=true&theme=tokyonight" />
 </a>
 
 
 <a href="https://github.com/chaitu786/Tic-Tac-Toi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Tic-Tac-Toi&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Tic-Tac-Toi&hide_border=true&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/chaitu786/Weather-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Weather-Application&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Weather-Application&hide_border=true&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/chaitu786/Movie-Search-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Movie-Search-App&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitu786&repo=Movie-Search-App&hide_border=true&theme=tokyonight" />
 </a>
 
 
