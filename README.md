@@ -62,7 +62,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <br/>
  <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chaitu786&show_icons=true&hide_border=true&theme=dark" />
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="chaitu786's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitu786&theme=dark&hide_border=true"/>
+  <img width="48% title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="chaitu786's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitu786&theme=dark&hide_border=true"/>
 </p>
 
 ## 🔝 Most Used Languages
