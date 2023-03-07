@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=false&lines=Full+Stack+Web+Developer...;2000%2B+Hours+Of+Coding+Experiance;Problem+Solver)](https://git.io/typing-svg)
 
-<h3>A Passionate Full-Stack web developer from india</h3>
+<h3>A Passionate Full-Stack web developer from India</h3>
 <p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br>
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
 
