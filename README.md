@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Chaithanya Reddy 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=true&lines=Software+Engineer+2+%7C+Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;GenAI+%7C+AWS+Bedrock+%7C+RAG+Applications;4%2B+Years+of+Full-Stack+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF5733&size=25&center=true&lines=Software+Engineer+2;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+PostgreSQL;GenAI+%26+AWS+Bedrock)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chaitu786&label=Profile%20views&color=0e75b6&style=flat" alt="chaitu786" />
